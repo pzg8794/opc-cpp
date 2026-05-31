@@ -1,15 +1,14 @@
-# hw2
+# papers
 
-Path: `hw2`
+Path: `papers`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Paper/research/proposal materials staged for future Overleaf conversion.
 
 ## Items
 
-- `hw2/` (folder)
-- `hw2.sln` (file)
+- No items currently classified here.
 
 ## Notes
 

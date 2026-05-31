@@ -1,15 +1,15 @@
 # Assignment3
 
-Path: `Assignment3`
+Path: `reports/Assignment3`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 
 - `Assignment3/` (folder)
-- `Assignment3.sln` (file)
+- `Output-Build.txt` (file)
 
 ## Notes
 

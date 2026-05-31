@@ -1,15 +1,14 @@
 # hw2
 
-Path: `hw2`
+Path: `reports/hw2/hw2`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
 
 ## Items
 
-- `hw2/` (folder)
-- `hw2.sln` (file)
+- `Assignment2.txt` (file)
 
 ## Notes
 
