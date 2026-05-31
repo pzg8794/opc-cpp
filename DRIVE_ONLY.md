@@ -1,18 +1,12 @@
-# Drive-Only / Non-GitHub Material
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Drive-Only and Heavy Items
 
-Drive source: https://drive.google.com/drive/folders/1kX4JD7PwXMhekrVy51BYv3gS9DOP7apr
+GitHub contains the simple project files: code, papers, reports, presentations, notebooks, and lightweight assets. Heavy media, raw data, installers, archives, model files, and other large binaries stay referenced in Google Drive.
 
-These folders were present in Drive but did not contain GitHub-appropriate simple files after filtering. They are not kept as empty GitHub folders. Check Drive for videos, installers, archives, raw data, or other excluded/heavy artifacts.
+## Drive Sources
 
-- `Assignment3/`
-- `Assignment3/Assignment3/`
-- `Assignment4/`
-- `Assignment4/Assignment4/`
-- `Lab11/`
-- `Lab11/Lab11/`
-- `Lab22/`
-- `Lab22/Lab22/`
-- `Lab7/`
-- `Lab7/Lab7/`
-- `papers/`
-- `presentations/`
+- https://drive.google.com/drive/folders/1kX4JD7PwXMhekrVy51BYv3gS9DOP7apr
+
+## Import Status
+
+- `1kX4JD7PwXMhekrVy51BYv3gS9DOP7apr`: completed
