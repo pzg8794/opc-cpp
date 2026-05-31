@@ -1,6 +1,6 @@
-# hw2
+# Lab22
 
-Path: `reports/hw2/hw2`
+Path: `reports/Lab22`
 
 ## Purpose
 
@@ -8,8 +8,8 @@ Report, lab, assignment, final-project, notes, and documentation material staged
 
 ## Items
 
-- `Assignment2.txt` (file)
-- `Clonefile.txt` (file)
+- `Lab22/` (folder)
+- `Lab22.sln` (file)
 
 ## Notes
 

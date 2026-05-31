@@ -1,6 +1,6 @@
-# hw2
+# Lab11
 
-Path: `reports/hw2/hw2`
+Path: `reports/Lab11/Lab11`
 
 ## Purpose
 
@@ -8,8 +8,10 @@ Report, lab, assignment, final-project, notes, and documentation material staged
 
 ## Items
 
-- `Assignment2.txt` (file)
-- `Clonefile.txt` (file)
+- `Lab11.cpp` (file)
+- `Lab11.h` (file)
+- `Lab11.vcxproj` (file)
+- `Lab11IMP.cpp` (file)
 
 ## Notes
 

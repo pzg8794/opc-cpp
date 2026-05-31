@@ -1,6 +1,6 @@
-# hw2
+# Lab7
 
-Path: `reports/hw2/hw2`
+Path: `reports/Lab7/Lab7`
 
 ## Purpose
 
@@ -8,8 +8,10 @@ Report, lab, assignment, final-project, notes, and documentation material staged
 
 ## Items
 
-- `Assignment2.txt` (file)
-- `Clonefile.txt` (file)
+- `Lab7.vcxproj` (file)
+- `Recursion.cpp` (file)
+- `Recursion.h` (file)
+- `Recursion1.cpp` (file)
 
 ## Notes
 

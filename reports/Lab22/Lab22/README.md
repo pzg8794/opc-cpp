@@ -1,6 +1,6 @@
-# hw2
+# Lab22
 
-Path: `reports/hw2/hw2`
+Path: `reports/Lab22/Lab22`
 
 ## Purpose
 
@@ -8,8 +8,11 @@ Report, lab, assignment, final-project, notes, and documentation material staged
 
 ## Items
 
-- `Assignment2.txt` (file)
-- `Clonefile.txt` (file)
+- `BinarySearch.h` (file)
+- `BinarySearchInside.cpp` (file)
+- `BinaryTreeIMP.cpp` (file)
+- `Lab22.vcxproj` (file)
+- `MyMain.cpp` (file)
 
 ## Notes
 
